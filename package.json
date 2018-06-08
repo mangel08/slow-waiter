@@ -1,0 +1,15 @@
+{
+  "name": "slow-waiter",
+  "version": "1.0.0",
+  "description": "Answer for 4 question of test Langroo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Miguelangel Palma",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  }
+}
